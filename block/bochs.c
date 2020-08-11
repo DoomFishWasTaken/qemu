@@ -31,7 +31,7 @@
 
 /**************************************************************/
 
-#define HEADER_MAGIC "Real HD Image"
+#define HEADER_MAGIC "Bochs HD Image"
 #define HEADER_VERSION 0x00020000
 #define HEADER_V1 0x00010000
 #define HEADER_SIZE 512
